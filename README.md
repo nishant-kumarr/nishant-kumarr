@@ -1,7 +1,7 @@
 <h3 align="center"> Namastey MxX </h3>
-<h4 align="center">It's a request to buckle up, because you're about to embark on a journey to my digital playground where every line of code, every innovation, and every discovery sparks my curiosity and fuels my passion. – This is Nishant, welcomes you to my corner of web.</h4>
+<h4 align="left">It's a request to buckle up, because you're about to embark on a journey to my digital playground where every line of code, every innovation, and every discovery sparks my curiosity and fuels my passion. – This is Nishant, welcomes you to my corner of web.</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-kumarr" alt="nishant-kumarr" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python.**
 
@@ -25,3 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-kumarr&show_icons=true&locale=en&layout=compact" alt="nishant-kumarr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-kumarr&" alt="nishant-kumarr" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-kumarr" alt="nishant-kumarr" /></a> </p>
