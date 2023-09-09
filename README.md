@@ -1,4 +1,4 @@
-<h3 align="center"> Namastey MxX </h3>
+<h3 align="center"> Namastey ! </h3>
 <h4 align="left">It's a request to buckle up, because you're about to embark on a journey to my digital playground where every line of code, every innovation, and every discovery sparks my curiosity and fuels my passion. – This is Nishant, welcomes you to my corner of web.</h4>
 
 
