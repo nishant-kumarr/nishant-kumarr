@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/nishantt_kumarr" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3772723-3147023.png" alt="nishantt_kumarr" height="40" width="35" /></a>
 <a href="https://www.leetcode.com/nishant-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant-kumar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nishantt_kumarr" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3772723-3147023.png" alt="nishantt_kumarr" height="40" width="35" /></a>
 <a href="https://www.codechef.com/users/nishant_kumarr" target="blank"><img align="center" src="https://camo.githubusercontent.com/1a2d9d50827855dea27dc8dddaf19884b9ebc1db2a6c15d416b8b60d44e79229/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d4f345345655836364259386f26666f726d61743d706e67" alt="nishant_kumarr" height="40" width="35" /></a>
 <a href="https://linkedin.com/in/nishantkumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantkumarr" height="30" width="40" /></a>
 
