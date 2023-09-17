@@ -26,7 +26,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-kumarr&show_icons=true&locale=en&layout=compact" alt="nishant-kumarr" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-kumarr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-kumarr&rank_icon=github)
 
