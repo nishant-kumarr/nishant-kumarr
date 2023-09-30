@@ -33,6 +33,6 @@
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-kumarr&rank_icon=github)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-kumarr&" alt="nishant-kumarr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-kumarr&" alt="__Nishant-kumarr" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-kumarr" alt="nishant-kumarr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-kumarr" alt="__Nishant-kumarr" /></a> </p>
