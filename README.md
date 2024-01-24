@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nishantkumarkunwar@gmail.com**
 
-- ⚡ Fun fact : I'm like a fine wine that's aged well in wisdom, but still loves to dance in the rain.
+- ⚡ Individuality : I'm like a fine wine that's aged well in wisdom, but still loves to dance in the rain.
 
 
 <h3 align="left">Connect with me:</h3>
