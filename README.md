@@ -20,12 +20,11 @@
 
 <h3>Languages and Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,php,git,github,bash,powershell,mysql,ubuntu,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,php,git,github,bash,powershell,mysql,ubuntu,kali)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-kumarr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-kumarr&layout=donut-vertical&card_width=330)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-kumarr&rank_icon=github)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-kumarr&" alt="__Nishant-kumarr" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-kumarr" alt="__Nishant-kumarr" /></a> </p>
