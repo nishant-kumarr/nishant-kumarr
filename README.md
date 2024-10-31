@@ -19,7 +19,7 @@
 
 <h3>Languages and Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,php,git,github,bash,powershell,mysql,ubuntu,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,php,git,github,bash,powershell,mysql,ubuntu,kali)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-kumarr&layout=donut-vertical&card_width=330)](https://github.com/anuraghazra/github-readme-stats)
 
